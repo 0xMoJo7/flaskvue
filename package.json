@@ -7,8 +7,9 @@
     "example": "example"
   },
   "dependencies": {
-    "vue": "^2.5.3",
-    "nodejs": "^0.0.0"
+    "nodejs": "^0.0.0",
+    "virtualenv": "^0.3.1",
+    "vue": "^2.5.3"
   },
   "devDependencies": {},
   "scripts": {
