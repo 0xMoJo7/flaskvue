@@ -1,0 +1,27 @@
+{
+  "name": "ericdavis",
+  "version": "1.0.0",
+  "description": "eric_testing",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "vue": "^2.5.3",
+    "nodejs": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test__"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emdavis7/flaskvue.git"
+  },
+  "author": "ericd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emdavis7/flaskvue/issues"
+  },
+  "homepage": "https://github.com/emdavis7/flaskvue#readme"
+}
